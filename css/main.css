@@ -3910,6 +3910,8 @@ input:focus, select:focus, textarea:focus, input[type="file"]:focus, input[type=
         margin: 0 10px;
         position: relative;
         width: 30px; }
+        .workspace-bar .workspace-options .options-btn li a {
+          padding-top: 6px; }
         .workspace-bar .workspace-options .options-btn li svg {
           fill: #7f7f7f;
           height: 18px;
